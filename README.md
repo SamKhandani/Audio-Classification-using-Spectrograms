@@ -84,3 +84,6 @@ This project implements a deep learning model for speech command recognition usi
 ```bash
 git clone https://github.com/yourusername/speech-recognition.git
 cd speech-recognition
+```
+---
+![image](https://github.com/SamKhandani/Audio-Classification-using-Spectrograms/blob/main/model/output.png)
